@@ -1,5 +1,3 @@
-
-
 export const root = {
     maxWidth: '854px',
     width: '100%',
